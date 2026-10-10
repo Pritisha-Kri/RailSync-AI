@@ -1,4 +1,4 @@
-# 🚆 RailSync AI: AI-Driven Railway Maintenance Optimizer
+# 🚆 RailSync AI: AI-Driven Railway Maintenance Optimizer 
 
 ![Project Status](https://img.shields.io/badge/Status-Hackathon_Ready-success?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Tech-Next.js_|_Python_|_OR--Tools_|_XGBoost-blue?style=for-the-badge)
